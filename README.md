@@ -24,18 +24,18 @@
 
 ## 📊 وضعیت گیت‌هاب من | GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agravix&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmiRAG6&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agravix&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiRAG6&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
 
 ## 🏆 تروفی‌ها | Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agravix&theme=dracula&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmiRAG6&theme=dracula&column=7" />
 </p>
 
 ---
